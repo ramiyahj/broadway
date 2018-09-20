@@ -10,6 +10,7 @@ body {
 
 #home a {
   color: white;
+  font-size: 18px;
 }
 
 h1 {
@@ -21,4 +22,35 @@ h1 {
 h4 {
   font-size: 32px;
   font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#process p {
+  font-size: 14px;
+}
+
+h5 {
+  background-image: url('../../resources/images/the-flatiron-building.png');
+  background-repeat: no-repeat;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#footer {
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
+
+#footer a {
+  font-size: 18px;
+  color: white;
+}
+
+.copyright {
+  font-size: 11px;
 }
